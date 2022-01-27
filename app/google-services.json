@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569223870720",
+    "project_id": "beatbox-1aae1",
+    "storage_bucket": "beatbox-1aae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569223870720:android:06937f7f139363f6829be5",
+        "android_client_info": {
+          "package_name": "com.example.beatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569223870720-iffc3dndvcv1lospdgf6koj2n9r5rvus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1D4ZZP_UTlTUso5J9ZwXXABeKlOTJqpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569223870720-iffc3dndvcv1lospdgf6koj2n9r5rvus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
